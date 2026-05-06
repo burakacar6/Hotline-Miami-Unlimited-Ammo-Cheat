@@ -1,2 +1,3 @@
 # Hotline-Miami-Unlimited-Ammo
-05/06/2026
+
+Compile it or download it directly from the "Release" section
