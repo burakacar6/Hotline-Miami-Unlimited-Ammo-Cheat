@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HotlineMiamiAmmo/HotlineMiamiAmmo.vcxproj" Id="93a60397-8f0c-432f-ac26-6dd428d69861" />
+</Solution>
